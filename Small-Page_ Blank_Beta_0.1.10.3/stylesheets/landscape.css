@@ -1,0 +1,20 @@
+@media screen and (orientation: landscape) {
+   #somethingorother {
+    width: 480px ;
+  }
+   #somethingorother {
+    width: 568px ;
+  }
+   #somethingorother {
+    width: 600px ;
+  }
+   #somethingorother {
+    width: 667px ;
+  }
+   #somethingorother {
+    width: 812px ;
+  }
+   #somethingorother {
+    width: 1024px ;
+  }
+}
