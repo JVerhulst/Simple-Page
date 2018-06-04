@@ -1,0 +1,23 @@
+@media screen and (orientation:portrait) {
+   #somethingorother {
+    width: 240px ;
+  }
+   #somethingorother {
+    width: 320px ;
+  }
+  #somethingorother {
+    width: 375px ;
+  }
+  #somethingorother {
+    width: 384px ;
+  }
+  #somethingorother {
+    width: 414px ;
+  }
+  #somethingorother {
+    width: 600px ;
+  }
+  #somethingorother {
+    width: 768px ;
+  }
+}

@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body{
+	font-family: 'Quicksand', sans-serif;
+	background-color:white;
+}
+.container {
+    max-width: auto;
+    margin: auto;
+	font-family: 'Quicksand', sans-serif;
+	background:#efefef;
+}
+h1{
+	color:white;
+}
+#section /*Register*/{
+	text-align:center;
+	background-color:#300032;
+	height:420px;
+	width:400px;
+	margin:auto;
+	border-radius:5px;
+	border:2px;
+	margin-top:80px;
+}
+#section_2 /*Login*/{
+	text-align:center;
+	background-color:#300032;
+	height:370px;
+	width:400px;
+	margin:auto;
+	border-radius:5px;
+	border:2px;
+	margin-top:80px;
+}
+#section_3 /*Forgot password*/{
+	text-align:center;
+	background-color:#300032;
+	height:270px;
+	width:400px;
+	margin:auto;
+	border-radius:5px;
+	border:2px;
+	margin-top:80px;
+}
+#section_4 /*Profile*/{
+	text-align:center;
+	background-color:#300032;
+	height:300px;
+	width:400px;
+	margin:auto;
+	border-radius:5px;
+	border:2px;
+	margin-top:80px;
+}
+#left_menu {
+	text-align:left;
+	background-color: #dbdbdb;
+	float: right;
+	height: 175px;
+	width: 150px;
+	margin: auto;
+	border-radius:5px;
+	margin-top: -260px;
+	right: 100px
+}
+.upload {
+	width: 150px;
+}
+.logoutbutton {
+	width: 150px
+}
+.left_menu_btn {
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: 16px;
+	border-radius:5px;
+	margin-top: -7px;
+}
+.left_menu_btn:hover {
+	background-color: #4f9124; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-size: 16px;
+	border-radius:5px;
+	margin-top: -7px;
+}
+a {
+	color: red;
+}
+input{
+	display:block;
+	margin:auto;
+	padding:5px;
+	margin-top:25px;
+	width:50%;
+	height:30px;
+	border:0 none;
+	font-family: 'Quicksand', sans-serif;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+input[type=checkbox]{
+	width:12px;
+	position:relative;
+	right:40px;
+	display:inline-block;
+}
+button[name="submit"]{
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	width:35%;
+	height:40px;
+	background-color:red;
+	border-radius:50%;
+}
+button.loginbutton{
+	margin-top: 30px;
+	font-family: 'Quicksand', sans-serif;
+	width:35%;
+	height:40px;
+	background-color:red;
+	border-radius:50%;
+}
+.checkboxtext{
+	color:white;
+	position:relative;
+	right:35px;
+	bottom:8px;
+}
+.text{
+	color:white;
+	position:relative;
+	top:25px;
+}
+.verification{
+	text-align:center;
+	background-color:#300032;
+	height:450px;
+	width:580px;
+	margin:auto;
+	border-radius:5px;
+	border:2px solid white;
+	margin-top:-15px;
+	color:white;
+	line-height:450px;
+}
+

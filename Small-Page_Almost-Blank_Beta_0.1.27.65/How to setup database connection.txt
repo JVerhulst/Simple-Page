@@ -1,0 +1,4 @@
+1. Go to the folder lib.
+2. Go in the file connection.php
+3. Edit this part of the file so it can connect to a database: "mysqli_connect("localhost","root","your_password","userlogin")"
+4. You can find in the folder database a sql file that can be imported in a sql database, that will help you, make a connection easyer.
