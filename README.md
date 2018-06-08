@@ -15,3 +15,11 @@ It is build in php/some html and also uses mysql and a mail server.
 # Install Windows:
 
 # Install Linux:
+
+
+
+
+
+(A lot of thanks to the projects of people from who i used some code:
+- phpmailer
+- cookiebar)
